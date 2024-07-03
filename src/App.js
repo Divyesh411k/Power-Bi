@@ -3,7 +3,7 @@ import './App.css';
 import { PowerBIEmbed } from 'powerbi-client-react';
 import { models } from 'powerbi-client';
 import { useState, useEffect } from 'react';
-function App() {
+function App() {`
  
     return (
         <div>
